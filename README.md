@@ -7,10 +7,13 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**0 solved**
+**1 solved**  ·  Easy: 1
+
+**Languages:** Python (1)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](easy/0217-contains-duplicate.py) |
 <!-- STATS:END -->
 
 ## How this repo is organized
