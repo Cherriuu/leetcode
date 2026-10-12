@@ -7,12 +7,13 @@ problem-solving patterns.
 ## Progress
 
 <!-- STATS:START -->
-**1 solved**  ·  Easy: 1
+**2 solved**  ·  Easy: 2
 
-**Languages:** Python (1)
+**Languages:** Python (2)
 
 | # | Problem | Difficulty | Solution |
 |--:|---------|:----------:|----------|
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](easy/0169-majority-element.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](easy/0217-contains-duplicate.py) |
 <!-- STATS:END -->
 
